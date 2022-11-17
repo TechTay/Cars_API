@@ -5,4 +5,4 @@ from rest_framework.response import Response
 def cars_list(request):
 
 
-    return Response('ok')
+    return Response('ok, I see what you did there!')
